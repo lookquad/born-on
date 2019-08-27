@@ -1,0 +1,30 @@
+{
+  "name": "born-on",
+  "version": "1.0.0",
+  "description": "A simple package to retrieve the list of celebrities having birthday on the specified date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lookquad/born-on.git"
+  },
+  "keywords": [
+    "Birthday",
+    "Celebrities",
+    "Region",
+    "Borned-with-me",
+    "Born-on"
+  ],
+  "author": "Luqman Quadri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lookquad/born-on/issues"
+  },
+  "homepage": "https://github.com/lookquad/born-on#readme",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "request-promise-native": "^1.0.7"
+  }
+}
