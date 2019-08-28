@@ -58,6 +58,12 @@ bornOn("02 october", "India").then(info => {
         Praveen Kumar
     */
 ```
+#### NOTE
+There can be a maximum of two inputs- 
+1. Date of Birth in the following format
+    *   DD Name of Month (02 October).
+2. Name of Country
+
 The location can also be inserted at the run time by using any program or API that can provide the location using the IP address of the visitor. 
 
 ## License
