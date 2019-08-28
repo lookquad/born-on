@@ -58,7 +58,7 @@ bornOn("02 october", "India").then(info => {
     */
 });
 ```
-The location can also be inserted at the functiona call by using any IP to Geographical location API. 
+The location can also be inserted at the run time by using any program or API that can provide the location using the IP address of the visitor. 
 
 ## License
 
