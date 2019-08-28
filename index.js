@@ -1,4 +1,3 @@
-
 /*  A simple package to get the list of celebrities borned on the date provided.
     We can get that list by calling a function with date of birth as an argument.
     We can also get the same from a particular location or country by passing the name of country. 
