@@ -1,6 +1,6 @@
 # Born-On
 
-This is a Node package that can be used to retrieve the list of celebrities borned on a particular date. With the help of search engines we can find it eaasily. But when it comes to program we need some technique to get that list in our program, So we have exploited that power of search engines to get the name of celebrities borned on the specified date. And later this list can be used for further processing. 
+This is a Node package that can be used to retrieve the list of celebrities borned on a particular date. With the help of search engines we can find it easily. But when it comes to program, we need to have some technique to get that list in our program, So that we can further perform the desired operations. To achieve this we have exploited that power of search engines to get the name of celebrities borned on the specified date from the internet without using any particular API, just web scrapping.  
 
 ## Installing the Package
 
