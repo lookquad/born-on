@@ -12,8 +12,8 @@ npm install born-on --save
 After installing the package create a file with any name (say test.js) and write the folowing code- 
 
 ```js
-const getdetails = require('gettingCelebrities');
-getdetails("02 october").then(info => {
+var bornOn = require("born-on");
+bornOn("02 october").then(info => {
     if (Array.isArray(info)) {
         for (let i = 0; i < info.length; i++) {
             console.log(info[i]);
@@ -37,8 +37,8 @@ getdetails("02 october").then(info => {
 If you want to retrieve the list of celebrities borned on a particular date and in a particular country you can do it as following-
 
 ```js
-const getdetails = require('gettingCelebrities');
-getdetails("02 october", "India").then(info => {
+var bornOn = require("born-on");
+bornOn("02 october", "India").then(info => {
     if (Array.isArray(info)) {
         for (let i = 0; i < info.length; i++) {
             console.log(info[i]);
