@@ -20,6 +20,7 @@ bornOn("02 october").then(info => {
             console.log(`\n`);
         }
     }
+});
 
     /* OUTPUT:
         Mahatma Gandhi
@@ -31,7 +32,6 @@ bornOn("02 october").then(info => {
         Huda Kattan
         Groucho Marx
     */
-});
 ```
 
 If you want to retrieve the list of celebrities borned on a particular date and in a particular country you can do it as following-
@@ -45,6 +45,7 @@ bornOn("02 october", "India").then(info => {
             console.log(`\n`);
         }
     }
+});
 
     /* OUTPUT:
         Mahatma Gandhi
@@ -56,7 +57,6 @@ bornOn("02 october", "India").then(info => {
         Rachana Banerjee
         Praveen Kumar
     */
-});
 ```
 The location can also be inserted at the run time by using any program or API that can provide the location using the IP address of the visitor. 
 
