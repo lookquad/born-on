@@ -1,6 +1,6 @@
 {
   "name": "born-on",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple package to retrieve the list of celebrities having birthday on the specified date.",
   "main": "index.js",
   "scripts": {
