@@ -66,7 +66,7 @@ There can be a maximum of two inputs-
 
 The name of country can also be inserted at the run time by using any program or API that can provide the location using the IP address of the visitor. 
 
-The date in other formats may not be able to get the desied results as it is based on web scrapping. 
+The date in other formats may not be able to get the desired results as it is based on web scrapping. 
 
 ## License
 
